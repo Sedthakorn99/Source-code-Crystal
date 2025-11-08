@@ -1,0 +1,10 @@
+
+temp = 31
+
+if temp >= 35
+  puts "ร้อนระเบิดๆๆๆๆ"
+elsif temp >= 25
+  puts "อุ่นๆ กำลังดีเลย"
+else
+  puts "เย็นสบายมว่าก"
+end
