@@ -1,0 +1,6 @@
+
+scores = [78, 92, 88, 95]
+sum = scores.sum
+average = sum / scores.size
+
+puts "คะแนนเฉลี่ยคือ #{average}"
